@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Em bé ơi!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Như em biết thì chủ nhật này chính là anni 2 năm của chúng mình đóa',
+    desc: 'Vậy thì em có muốn tham gia cùng tớ hem',
+    btnYes: 'Tất nhiên là có rùi, cho tui xem plan i',
+    btnNo: 'Không, thằng ngu ảo tưởng',
+    question:'Vậy thì hãy nhập bàn phím để plan hiện ra nha',
+    btnReply: 'Em đọc rùi ạaaa',
+    reply: 'https://tinhiunhobe.my.canva.site/',
+    mess: 'Vậy thì hẹn em ngày chủ nhật nhaaaa',
+    messDesc: 'Nhớ không được trễ hẹn đâu công túa của anh',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.instagram.com/choxuvacanhcut/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
